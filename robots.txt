@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-6g60eo.biggamingwin.online/sitemap.xml
